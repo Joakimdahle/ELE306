@@ -1,7 +1,3 @@
 # ELE306
-# Heading1
-## Heading2
-### Heading3
-#### Heading4
-##### Heading5
-###### Heading6
+#25.08.22
+###Her skal jeg prøve å lære meg å bruke Github.
